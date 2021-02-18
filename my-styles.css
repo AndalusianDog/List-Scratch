@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	margin-top: 50px;
+}
+
+p,
+button {
+	cursor: pointer;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.invisible {
+	display: none;
+}
